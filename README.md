@@ -86,7 +86,7 @@ section by section or in full.
 
 Halfdan Lynge
 Chief Advisor, Danish Agency for Digital Government (DIGST)  
-Visiting Associate Professor, Wits School of Governance  
+Visiting Senior Researcher, Wits School of Governance  
 Research Fellow, Tayarisha Centre for Digital Governance
 
 ## License
