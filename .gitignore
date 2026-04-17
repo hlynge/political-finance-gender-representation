@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Third-party datasets (licence prohibits redistribution)
+data/V-Dem*.csv
+data/POLCON*.csv
